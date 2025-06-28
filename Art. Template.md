@@ -1,3 +1,8 @@
+## Onde foi usado IA neste trabalho?
+
+- Template e estrutura dos artigos
+- Resumos de entendimento
+
 ## Art. XX: [Título do Artigo]
 
 [Explicação do Artigo: O que ele diz e qual sua importância geral, em linguagem clara e direta.]
