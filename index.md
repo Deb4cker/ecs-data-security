@@ -399,6 +399,7 @@ O desenvolvedor deve integrar segurança e privacidade desde a concepção do pr
 *   **Anonimização/Pseudonimização:** Sempre que possível, utilize técnicas de anonimização ou pseudonimização de dados para reduzir o risco em caso de vazamento.
 [Opcional: Exemplo de Código (com explicação se necessário)]
 *   **Exemplo de pseudonimização simples:**
+
 ```Python
 def pseudonimize_data(data):
     if 'cpf' in data:
@@ -412,6 +413,7 @@ user_data = {'name': 'João Silva', 'cpf': '123.456.789-00', 'email': 'joao.silv
 pseudonymized_user_data = pseudonimize_data(user_data)
 print(pseudonymized_user_data)
 # Saída: {'name': 'João Silva', 'cpf': '***.456.***-**', 'email': 'joa***@example.com'}
+
 ```
 
 #### 2. Gerenciamento de acessos e logs
