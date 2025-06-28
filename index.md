@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LGPD - Cap.3 & Cap.5
+title: LGPD - Cap.7 & Cap.8
 ---
 # LGPD - Segurança de dados, sanções e multas
 
@@ -8,20 +8,22 @@ Neste material, você vai encontrar um resumo direto sobre dois temas que impact
 
 ### Índice
 
-- Capítulo 3
+- Capítulo VII - DA SEGURANÇA E DAS BOAS PRÁTICAS
+  - **Seção I - Da Segurança e do Sigilo de Dados**
   - [Art. 46 - Medidas de Segurança](#art-46-medidas-de-segurança---atente-se-aos-padrões-mínimos-exigidos)
   - [Art. 47 - Segurança Contínua](#art-47-segurança-contínua---mesmo-depois-que-o-tratamento-acaba)
   - [Art. 48 - Comunicação de Incidentes](#art-48-comunicação-de-incidentes-de-segurança-com-dados-pessoais)
   - [Art. 49 - Segurança desde a Concepção](#art-49-segurança-como-ponto-de-partida-security-by-design)
 
-- Capítulo 5
+- Capítulo VIII - DA FISCALIZAÇÃO
+  - **Seção I - Das Sanções Administrativas**
   - [Art. 52 - Sanções Administrativas](#art-52-das-sanções-administrativas-na-lgpd)
   - [Art. 53 - Cálculo das Multas](#art-53-como-a-multa-é-calculada-entendendo-a-metodologia-da-anpd)
   - [Art. 54 - Multa Diária](#art-54-multa-diária---o-relógio-está-correndo)
 
 ---
 
-## Capítulo 3 - Segurança de dados
+## Capítulo VII - DA SEGURANÇA E DAS BOAS PRÁTICAS
 
 Este capítulo trata das obrigações técnicas que envolvem o tratamento seguro de dados pessoais. Aqui você vai encontrar diretrizes sobre como proteger os dados do início ao fim — desde a concepção do sistema até o descarte dos dados. Também falamos sobre o que fazer quando ocorre um vazamento, como registrar essas ocorrências e por que segurança precisa estar no código desde o começo.
 
@@ -373,7 +375,7 @@ Em resumo, o Art. 49 consolida a ideia de que a segurança é responsabilidade d
 ---
 ---
 
-## Capítulo 5 - Sanções e multas
+## Capítulo VIII - DA FISCALIZAÇÃO
 
 Este capítulo mostra o que acontece quando a LGPD não é seguida. Ele explica as punições que a ANPD pode aplicar, como advertências, multas e até a suspensão do uso de dados. Também detalha como essas sanções são calculadas, quando entra a multa diária e o que isso significa para quem está escrevendo o código ou mantendo o sistema no ar.
 
