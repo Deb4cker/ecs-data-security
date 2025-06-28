@@ -1,3 +1,9 @@
+---
+title: Art. 52º das sanções administrativas na LGPD
+parent: Capítulo VIII - DA FISCALIZAÇÃO
+nav_order: 1
+---
+
 ## Art. 52: das sanções administrativas na LGPD
 
 O Artigo 52 da LGPD estabelece as sanções administrativas aplicáveis pela ANPD em caso de descumprimento da lei, incluindo advertências, multas (de até 2% do faturamento da empresa, limitadas a R$ 50 milhões por infração) e a proibição parcial ou total de atividades relacionadas ao tratamento de dados. Essas penalidades visam assegurar a efetividade da LGPD, incentivando o compliance e protegendo os direitos dos titulares de dados pessoais.
@@ -19,7 +25,7 @@ O desenvolvedor deve integrar segurança e privacidade desde a concepção do pr
 *   **Anonimização/Pseudonimização:** Sempre que possível, utilize técnicas de anonimização ou pseudonimização de dados para reduzir o risco em caso de vazamento.
 [Opcional: Exemplo de Código (com explicação se necessário)]
 *   **Exemplo de pseudonimização simples:**
-```Python
+```python
 def pseudonimize_data(data):
     if 'cpf' in data:
         data['cpf'] = '***.' + data['cpf'][4:7] + '.***-**'
@@ -44,7 +50,7 @@ A LGPD obriga empresas a registrar operações com dados pessoais. O desenvolved
 *   **Controle de acesso baseado em papéis (RBAC):** Garanta que os usuários (e outros sistemas) tenham acesso apenas aos dados estritamente necessários para suas funções.
 *   **Revisão periódica:** Desenvolva mecanismos para que os logs sejam revisados periodicamente e que alertas sejam gerados em caso de atividades suspeitas.
 
-```JavaScript
+```javascript
 // Exemplo conceitual de logging de acesso a dados sensíveis (Node.js)
 function logSensitiveAccess(userId, dataId, action) {
     const timestamp = new Date().toISOString();

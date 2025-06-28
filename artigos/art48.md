@@ -1,4 +1,10 @@
-## Art. 48: Comunicação de Incidentes de Segurança com Dados Pessoais
+---
+title: Art. 48º Comunicação de Incidentes de Segurança com Dados Pessoais
+parent: Capítulo VII - DA SEGURANÇA E DAS BOAS PRÁTICAS
+nav_order: 3
+---
+
+## Art. 48º: Comunicação de Incidentes de Segurança com Dados Pessoais
 
 O Art. 48 da LGPD determina que o controlador (quem decide como e por que os dados são tratados) deve **comunicar a ocorrência de qualquer incidente de segurança** que possa causar risco ou dano relevante aos titulares dos dados, tanto à **Autoridade Nacional de Proteção de Dados (ANPD)** quanto aos próprios **titulares** afetados.
 

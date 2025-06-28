@@ -1,3 +1,9 @@
+---
+title: Art. 54º Multa Diária - O Relógio Está Correndo!
+parent: Capítulo VIII - DA FISCALIZAÇÃO
+nav_order: 3
+---
+
 ## Art. 54: Multa Diária - O Relógio Está Correndo!
 
 O Artigo 54 da LGPD foca na multa diária. Ele diz que o valor dessa multa deve ser proporcional à gravidade da falha e ao tamanho do estrago (dano ou prejuízo) causado. Junto a isso, a ANPD precisa justificar bem esse valor. O parágrafo único ainda diz que a notificação da multa diária deve ser direta, informando a obrigação a ser cumprida, o prazo e o valor da multa por dia de atraso.

@@ -1,4 +1,10 @@
-## Art. 47: Segurança Contínua - Mesmo Depois que o Tratamento Acaba
+---
+title: Art. 47º Segurança Contínua - Mesmo Depois que o Tratamento
+parent: Capítulo VII - DA SEGURANÇA E DAS BOAS PRÁTICAS
+nav_order: 2
+---
+
+## Art. 47º: Segurança Contínua - Mesmo Depois que o Tratamento Acaba
 
 O Artigo 47 da LGPD deixa claro que a responsabilidade pela segurança dos dados pessoais não termina quando o tratamento desses dados é encerrado. Mesmo após a exclusão, arquivamento ou transferência dos dados, os agentes de tratamento continuam obrigados a garantir sua proteção contra acessos indevidos, vazamentos, alterações ou perdas.
 

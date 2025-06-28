@@ -1,3 +1,9 @@
+---
+title: Art. 53º Como a Multa é Calculada? Entendendo a Metodologia da ANPD
+parent: Capítulo VIII - DA FISCALIZAÇÃO
+nav_order: 2
+---
+
 ## Art. 53: Como a Multa é Calculada? Entendendo a Metodologia da ANPD
 
 O Artigo 53 da LGPD fala sobre como a Autoridade Nacional de Proteção de Dados (ANPD) vai definir as regras para calcular o valor das multas. Basicamente, a ANPD precisa criar um jeito claro e transparente, ou seja, uma metodologia para isso, de modo que qualquer um entenda o que deve ser publicado e passar por consulta pública. Essa metodologia vai detalhar como o valor-base das multas será calculado, levando em conta os critérios que vimos no Art. 52.

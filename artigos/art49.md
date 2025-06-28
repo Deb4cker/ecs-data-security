@@ -1,3 +1,9 @@
+---
+title: Art. 49º Segurança como Ponto de Partida (Security by Design)
+parent: Capítulo VII - DA SEGURANÇA E DAS BOAS PRÁTICAS
+nav_order: 4
+---
+
 ## Art. 49: Segurança como Ponto de Partida (Security by Design)
 
 O Art. 49 da LGPD estabelece que todo sistema que lida com dados pessoais já deve nascer seguro. É como construir uma casa: a segurança não é uma cerca que você adiciona no final, mas parte da fundação e da estrutura do projeto. A proteção de dados precisa ser um ingrediente básico desde o início.

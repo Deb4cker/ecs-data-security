@@ -1,9 +1,10 @@
 ---
-layout: default
-title: Artigo 46
+title: Art. 46º Medidas de Segurança - Atente-se aos padrões
+parent: Capítulo VII - DA SEGURANÇA E DAS BOAS PRÁTICAS
+nav_order: 1
 ---
 
-## Art. 46: Medidas de Segurança - Atente-se aos padrões mínimos exigidos
+## Art. 46º: Medidas de Segurança - Atente-se aos padrões mínimos exigidos
 
 O Artigo 46 da LGPD foca na implantação de medidas de segurança, tanto técnicas, quanto administrativas por parte dos controladores dos dados a serem protegidos. O artigo visa evitar acessos não autorizados, destruição, seja ela, acidental ou não, perda, alteração, e qualquer outra forma de modificação ou comunicação inadequada. 
 
