@@ -400,7 +400,7 @@ O desenvolvedor deve integrar segurança e privacidade desde a concepção do pr
 [Opcional: Exemplo de Código (com explicação se necessário)]
 *   **Exemplo de pseudonimização simples:**
 
-```Python
+```python
 def pseudonimize_data(data):
     if 'cpf' in data:
         data['cpf'] = '***.' + data['cpf'][4:7] + '.***-**'
@@ -413,7 +413,6 @@ user_data = {'name': 'João Silva', 'cpf': '123.456.789-00', 'email': 'joao.silv
 pseudonymized_user_data = pseudonimize_data(user_data)
 print(pseudonymized_user_data)
 # Saída: {'name': 'João Silva', 'cpf': '***.456.***-**', 'email': 'joa***@example.com'}
-
 ```
 
 #### 2. Gerenciamento de acessos e logs
@@ -426,7 +425,7 @@ A LGPD obriga empresas a registrar operações com dados pessoais. O desenvolved
 *   **Controle de acesso baseado em papéis (RBAC):** Garanta que os usuários (e outros sistemas) tenham acesso apenas aos dados estritamente necessários para suas funções.
 *   **Revisão periódica:** Desenvolva mecanismos para que os logs sejam revisados periodicamente e que alertas sejam gerados em caso de atividades suspeitas.
 
-```JavaScript
+```javaScript
 // Exemplo conceitual de logging de acesso a dados sensíveis (Node.js)
 function logSensitiveAccess(userId, dataId, action) {
     const timestamp = new Date().toISOString();
