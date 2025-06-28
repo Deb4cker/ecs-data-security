@@ -1,0 +1,85 @@
+/* Reset básico para remover margens e preenchimentos padrão */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Garante que padding e border sejam incluídos no width/height */
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+/* --- Layout Principal --- */
+.page-container {
+    display: flex; /* Usa Flexbox para colocar sidebar e content lado a lado */
+    min-height: 100vh; /* Garante que o contêiner ocupe a altura total da viewport */
+}
+
+/* --- Estilos da Barra Lateral (Sidebar) --- */
+.sidebar {
+    width: 250px; /* Largura fixa da barra lateral */
+    background-color: #2c3e50; /* Cor de fundo escura */
+    color: #ecf0f1; /* Cor do texto claro */
+    padding: 20px 0; /* Preenchimento superior e inferior */
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Sombra sutil à direita */
+    position: fixed; /* Torna a barra lateral fixa na tela */
+    height: 100%; /* Ocupa toda a altura da viewport */
+    overflow-y: auto; /* Adiciona scroll se o conteúdo for muito longo */
+}
+
+.sidebar nav ul {
+    list-style: none; /* Remove os marcadores de lista */
+}
+
+.sidebar nav ul li {
+    margin-bottom: 5px; /* Espaçamento entre os itens do menu */
+}
+
+.sidebar nav ul li a {
+    display: block; /* Faz o link ocupar toda a largura do item da lista */
+    padding: 10px 20px; /* Preenchimento interno do link */
+    color: #ecf0f1; /* Cor do texto do link */
+    text-decoration: none; /* Remove o sublinhado do link */
+    transition: background-color 0.3s ease; /* Transição suave para o hover */
+}
+
+.sidebar nav ul li a strong {
+    font-weight: bold; /* Garante que o texto dentro do <strong> seja negrito */
+}
+
+.sidebar nav ul li a:hover {
+    background-color: #34495e; /* Escurece um pouco ao passar o mouse */
+    color: #fff; /* Opcional: altera a cor do texto no hover */
+}
+
+/* --- Estilos da Área de Conteúdo --- */
+.content-area {
+    margin-left: 250px; /* Cria uma margem à esquerda para o conteúdo, igual à largura da sidebar */
+    padding: 20px; /* Preenchimento em torno do conteúdo */
+    flex-grow: 1; /* Permite que a área de conteúdo ocupe o espaço restante */
+}
+
+/* Opcional: Estilos para o cabeçalho e rodapé, se você quiser integrá-los */
+header, footer {
+    width: calc(100% - 250px); /* Ocupa 100% da largura menos a sidebar */
+    margin-left: 250px; /* Alinha com a área de conteúdo */
+    background-color: #fff;
+    padding: 15px 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    z-index: 10; /* Garante que fique acima de outros elementos se necessário */
+    position: relative; /* Ajuste para o fluxo normal */
+}
+
+footer {
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 20px;
+    color: #777;
+    font-size: 0.9em;
+}
+
+/* Se você quiser que o header/footer sejam fixos, você precisaria de uma estrutura mais complexa com grid ou outros posicionamentos */
+/* Para este exemplo, eles seguirão o fluxo do conteúdo após a sidebar */

@@ -8,8 +8,19 @@
 </head>
 <body>
     {% include header.html %}
-    <main>
-        {{ content }}
+    <main class="page-container">
+        <aside class="sidebar">
+            <nav>
+                <ul>
+                    <li><a href="/"><strong>Página Inicial</strong></a></li>
+                    <li><a href="/about.html"><strong>Sobre Nós</strong></a></li>
+                    <li><a href="/contact.html"><strong>Contato</strong></a></li>
+                    </ul>
+            </nav>
+        </aside>
+        <section class="content-area">
+            {{ content }}
+        </section>
     </main>
     {% include footer.html %}
 </body>
