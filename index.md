@@ -425,7 +425,7 @@ A LGPD obriga empresas a registrar operações com dados pessoais. O desenvolved
 *   **Controle de acesso baseado em papéis (RBAC):** Garanta que os usuários (e outros sistemas) tenham acesso apenas aos dados estritamente necessários para suas funções.
 *   **Revisão periódica:** Desenvolva mecanismos para que os logs sejam revisados periodicamente e que alertas sejam gerados em caso de atividades suspeitas.
 
-```javaScript
+```javascript
 // Exemplo conceitual de logging de acesso a dados sensíveis (Node.js)
 function logSensitiveAccess(userId, dataId, action) {
     const timestamp = new Date().toISOString();
