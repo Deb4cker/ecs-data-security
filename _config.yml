@@ -1,11 +1,11 @@
-title: Segurança de dados, sanções e multas
+title: LGPD - Segurança de dados, sanções e multas
 remote_theme: just-the-docs/just-the-docs
 aux_links:
   Código-fonte no GitHub: https://github.com/Deb4cker/ecs-data-security
 footer_content: "© 2025 • Manual LGPD – Segurança de dados, sanções e multas"
 
 sass:
-  style: expanded
+  style: compressed
 
 just_the_docs:
   stylesheets:
