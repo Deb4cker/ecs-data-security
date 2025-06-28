@@ -2,6 +2,29 @@
 layout: default
 title: Página Inicial
 ---
+# LGPD - Segurança de dados, sanções e multas
+
+Neste material, você vai encontrar um resumo direto sobre dois temas que impactam bastante quem desenvolve sistemas ou trabalha com dados: a segurança dos dados (Capítulo 3 da LGPD) e as sanções que podem acontecer quando algo dá errado (Capítulo 5). A ideia é mostrar, de forma prática, o que a lei diz e como isso afeta o trabalho técnico, sem enrolação e sem juridiquês.
+
+### Índice
+
+- Capítulo 3
+  - [Art. 46 - Medidas de Segurança](#art-46-medidas-de-segurança---atente-se-aos-padrões-mínimos-exigidos)
+  - [Art. 47 - Segurança Contínua](#art-47-segurança-contínua---mesmo-depois-que-o-tratamento-acaba)
+  - [Art. 48 - Comunicação de Incidentes](#art-48-comunicação-de-incidentes-de-segurança-com-dados-pessoais)
+  - [Art. 49 - Segurança desde a Concepção](#art-49-segurança-como-ponto-de-partida-security-by-design)
+
+- Capítulo 5
+  - [Art. 52 - Sanções Administrativas](#art-52-das-sanções-administrativas-na-lgpd)
+  - [Art. 53 - Cálculo das Multas](#art-53-como-a-multa-é-calculada-entendendo-a-metodologia-da-anpd)
+  - [Art. 54 - Multa Diária](#art-54-multa-diária---o-relógio-está-correndo)
+
+---
+
+## Capítulo 3 - Segurança de dados
+
+Este capítulo trata das obrigações técnicas que envolvem o tratamento seguro de dados pessoais. Aqui você vai encontrar diretrizes sobre como proteger os dados do início ao fim — desde a concepção do sistema até o descarte dos dados. Também falamos sobre o que fazer quando ocorre um vazamento, como registrar essas ocorrências e por que segurança precisa estar no código desde o começo.
+
 
 ## Art. 46: Medidas de Segurança - Atente-se aos padrões mínimos exigidos
 
@@ -348,6 +371,12 @@ pip-audit
 Em resumo, o Art. 49 consolida a ideia de que a segurança é responsabilidade de todos, começando pelo desenvolvedor. Ele reforça o fato de que construir software seguro desde o início é, além de uma boa prática técnica, mas também uma exigência da lei para proteger os dados das pessoas, a empresa e os profissionais envolvidos.
 
 ---
+---
+
+## Capítulo 5 - Sanções e multas
+
+Este capítulo mostra o que acontece quando a LGPD não é seguida. Ele explica as punições que a ANPD pode aplicar, como advertências, multas e até a suspensão do uso de dados. Também detalha como essas sanções são calculadas, quando entra a multa diária e o que isso significa para quem está escrevendo o código ou mantendo o sistema no ar.
+
 
 ## Art. 52: das sanções administrativas na LGPD
 
