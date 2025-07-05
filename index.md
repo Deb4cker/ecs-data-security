@@ -11,13 +11,13 @@ Neste material, você vai encontrar um resumo direto sobre dois temas que impact
 
 - Capítulo VII - DA SEGURANÇA E DAS BOAS PRÁTICAS
   - **Seção I - Da Segurança e do Sigilo de Dados**
-  - [Art. 46 - Medidas de Segurança](#art-46-medidas-de-segurança---atente-se-aos-padrões-mínimos-exigidos)
-  - [Art. 47 - Segurança Contínua](#art-47-segurança-contínua---mesmo-depois-que-o-tratamento-acaba)
-  - [Art. 48 - Comunicação de Incidentes](#art-48-comunicação-de-incidentes-de-segurança-com-dados-pessoais)
-  - [Art. 49 - Segurança desde a Concepção](#art-49-segurança-como-ponto-de-partida-security-by-design)
+  - [Art. 46 - Medidas de Segurança](https://deb4cker.github.io/ecs-data-security/artigos/art46.html)
+  - [Art. 47 - Segurança Contínua](https://deb4cker.github.io/ecs-data-security/artigos/art47.html)
+  - [Art. 48 - Comunicação de Incidentes](https://deb4cker.github.io/ecs-data-security/artigos/art48.html)
+  - [Art. 49 - Segurança desde a Concepção](https://deb4cker.github.io/ecs-data-security/artigos/art49.html)
 
 - Capítulo VIII - DA FISCALIZAÇÃO
   - **Seção I - Das Sanções Administrativas**
-  - [Art. 52 - Sanções Administrativas](#art-52-das-sanções-administrativas-na-lgpd)
-  - [Art. 53 - Cálculo das Multas](#art-53-como-a-multa-é-calculada-entendendo-a-metodologia-da-anpd)
-  - [Art. 54 - Multa Diária](#art-54-multa-diária---o-relógio-está-correndo)
+  - [Art. 52 - Sanções Administrativas](https://deb4cker.github.io/ecs-data-security/artigos/art52.html)
+  - [Art. 53 - Cálculo das Multas](https://deb4cker.github.io/ecs-data-security/artigos/art53.html)
+  - [Art. 54 - Multa Diária](https://deb4cker.github.io/ecs-data-security/artigos/art54.html)
