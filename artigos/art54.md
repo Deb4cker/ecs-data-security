@@ -12,6 +12,9 @@ O Artigo 54 da LGPD foca na multa diária. Ele diz que o valor dessa multa deve 
 
 Se a multa diária aparecer, o tempo é dinheiro. Corrige o quanto antes, mostre que foi corrigido, se não, você vai perder dinheiro. Esteja com a suas habilidades de debug em dia nessas horas.
 
+### 📰 Recap Caso Telekall:
+No Art. 53 - Cálculo das Multas vimos o caso da Telekall, que tratou dados pessoais de eleitores via WhatsApp sem base legal e não indicou um encarregado, descumprindo a LGPD. Para este capítulo, vale recapitular que a empresa foi notificada pela ANPD, mas não atendeu às determinações no prazo, o que poderia levar à aplicação de multa diária — exatamente o que o Art. 54 prevê quando falhas não são corrigidas a tempo.
+
 ### Impacto no Dev e Como Diminuir o Risco:
 
 #### 1. Corrigir Rápido Falhas e Bugs
