@@ -14,6 +14,15 @@ O artigo deixa claro que a autoridade competente poderá ter padrões mínimos, 
 
 Que antes de sair por aí, trabalhando e tratando os dados alheios, da forma como você imagina que deve ser feito, é necessário verificar a Lei Geral de Proteção de Dados, entender qual a posição do seu caso dentro dela, conhecendo os dados que você irá tratar e o seu sistema. Após isso então, verificar os padrões, regras e normas exigidas para a sua situação e desenvolver ou "codar", como os desenvolvedores gostam de falar, de forma alinhada com a lei. 
 
+### 📰 Caso Real:
+
+Vazamento de dados de 223 milhões de brasileiros, informações como nome, CPF, endereço, número de telefone e até dados de renda se espalharam pela web,
+A origem exata, não foi confirmada, porém, especialistas do ramo apontam para falhas de segurança em bancos de dados do governo e de grandes empresas.
+Justamente o ponto tratado no Art. 46, uma falha na implementação de medidas técnicas e administrativas de segurança.
+[Saiba mais](https://luchesiadv.com.br/quando-a-lgpd-e-ignorada-o-caso-do-vazamento-de-dados-de-223-milhoes-de-brasileiros/)
+
+<img style="border-radius:20px" src="../images/vazamento_223milhoes.png" width="500px"/>
+
 ### Impacto no Dev e Como Diminuir o Risco:
 
 #### 1. Verificar os Padrões Mínimos Exigidos
