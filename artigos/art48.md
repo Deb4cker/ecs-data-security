@@ -19,6 +19,7 @@ Essa comunicação precisa ser feita **em prazo razoável** (definido pela ANPD)
 A ANPD pode ainda determinar medidas adicionais, como **divulgação pública** e **ações específicas de mitigação**. Ela também vai avaliar se os dados estavam adequadamente protegidos, por exemplo, com criptografia.
 
 <img style="border-radius:20px" src="../images/controlador_operador.jpeg" width="500px"/>
+<p style="font-size: 0.5em; color: #555;"><em>Disponível em: https://lgpd.sfiec.org.br/noticia/152988/comunicacao-de-incidente-de-seguranca</em></p>
 
 ### O que isso significa para você, desenvolvedor?
 
