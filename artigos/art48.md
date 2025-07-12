@@ -18,12 +18,19 @@ Essa comunicação precisa ser feita **em prazo razoável** (definido pela ANPD)
 
 A ANPD pode ainda determinar medidas adicionais, como **divulgação pública** e **ações específicas de mitigação**. Ela também vai avaliar se os dados estavam adequadamente protegidos, por exemplo, com criptografia.
 
+<img style="border-radius:20px" src="../images/controlador_operador.png" width="500px"/>
 
 ### O que isso significa para você, desenvolvedor?
 
 Significa que **vazamento de dados é coisa séria**, e que o sistema precisa estar preparado para detectar, responder e reportar esse tipo de problema rapidamente. Mesmo que você não seja o responsável legal pelo tratamento dos dados, **seu código pode ser a origem do incidente**, e isso afeta diretamente a empresa e os usuários.
 
 De forma bem direta: uma falha de segurança mal resolvida no seu código pode virar uma crise jurídica. E a sua habilidade de registrar, investigar e reagir rápido faz toda a diferença.
+
+### 📰 Casos Reais:
+- [CNN Brasil Money
+XP informa "acesso indevido" a dados de clientes](https://www.cnnbrasil.com.br/economia/macroeconomia/xp-informa-acesso-indevido-a-dados-de-clientes/)
+- [Adidas revela vazamento de dados de clientes](https://g1.globo.com/tecnologia/noticia/2025/05/26/adidas-revela-vazamento-de-dados-de-clientes.ghtml)
+- [Dados ANPD](https://app.powerbi.com/view?r=eyJrIjoiN2QxOGJmMTUtMjBmMi00YjdlLTkxMDEtM2U2ZTJkN2I3Mjc3IiwidCI6IjVhYmEwNGExLWY4NjMtNGI1Ni04MTdkLTQ0MjkxYzkwZDFiOCJ9)
 
 ### Para Você, Dev: Como Atuar na Prática
 
