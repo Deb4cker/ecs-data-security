@@ -94,6 +94,9 @@ A responsabilidade sobre os dados não termina com a entrega do sistema. A segur
 - **Treinamento de equipe:** Mantenha os times atualizados sobre boas práticas e os requisitos da LGPD.
 - **Revisão periódica de políticas:** Atualize suas políticas de segurança com base nas mudanças tecnológicas, ameaças ou exigências legais.
 
+### Links úteis:
+- [Fundação Bradesco: Lei Geral de Proteção de Dados (LGPD)](https://www.ev.org.br/cursos/lei-geral-de-protecao-de-dados-lgpd)
+
 ### Conclusão do Art. 47
 
 O Art. 47 mostra que proteger dados não é uma tarefa pontual, é um compromisso contínuo. O desenvolvedor, estando diretamente envolvido na criação de sistemas que lidam com dados pessoais, precisa projetar soluções que garantam essa segurança até o fim do ciclo de vida da informação. Não basta proteger durante o uso: é preciso pensar também no que vem depois, seja arquivamento, migração, descarte. A segurança precisa ser uma responsabilidade permanente, e o seu papel como desenvolvedor é essencial para isso acontecer.
