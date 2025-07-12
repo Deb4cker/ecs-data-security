@@ -22,6 +22,7 @@ Embora você não vá ficar calculando multas, é importante entender que existe
  Em 2023, a ANPD multou uma empresa de telemarketing por tratamento indevido de dados pessoais, reforçando a importância da metodologia de cálculo da multa prevista no Art. 53 da LGPD. [Saiba mais](https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-aplica-a-primeira-multa-por-descumprimento-a-lgpd)
 
 <img style="border-radius:20px" src="../images/primeira_da_anpd.png" alt="Primeira multa com base na lgpd" width="300px"/>
+<p style="font-size: 0.5em; color: #555;"><em>Disponível em: https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-aplica-a-primeira-multa-por-descumprimento-a-lgpd</em></p>
 
 Em 2023, a ANPD multou a empresa Telekall por usar dados de WhatsApp de eleitores sem base legal, durante as eleições de 2020. A empresa também não tinha um encarregado de dados e ignorou determinações da fiscalização. Mesmo sendo microempresa, a falta de controle e documentação pesou na decisão da ANPD.
 
