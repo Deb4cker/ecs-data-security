@@ -18,7 +18,7 @@ Essa comunicação precisa ser feita **em prazo razoável** (definido pela ANPD)
 
 A ANPD pode ainda determinar medidas adicionais, como **divulgação pública** e **ações específicas de mitigação**. Ela também vai avaliar se os dados estavam adequadamente protegidos, por exemplo, com criptografia.
 
-<img style="border-radius:20px" src="../images/controlador_operador.png" width="500px"/>
+<img style="border-radius:20px" src="../images/controlador_operador.jpeg" width="500px"/>
 
 ### O que isso significa para você, desenvolvedor?
 
