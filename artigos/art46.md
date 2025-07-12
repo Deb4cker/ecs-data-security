@@ -22,6 +22,7 @@ Justamente o ponto tratado no Art. 46, uma falha na implementação de medidas t
 [Saiba mais](https://luchesiadv.com.br/quando-a-lgpd-e-ignorada-o-caso-do-vazamento-de-dados-de-223-milhoes-de-brasileiros/)
 
 <img style="border-radius:20px" src="../images/vazamento_223milhoes.png" width="500px"/>
+<p style="font-size: 0.5em; color: #555;"><em>Disponível em: https://www.ibijus.com/blog/856-vazamento-de-dados-de-223-milhoes-de-brasileiros</em></p>
 
 ### Impacto no Dev e Como Diminuir o Risco:
 
